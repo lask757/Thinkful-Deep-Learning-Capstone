@@ -1,1 +1,1 @@
-# Thinkful-DeepsLearning-Capstone
+# Thinkful-Deep-Learning-Capstone
